@@ -20,9 +20,12 @@ https://user-images.githubusercontent.com/88557841/221958889-eb5e035b-26ff-4efa-
 
 
 
-Credits: 
+
+### Credits: 
 This project was completed with the guidance of project advisor SouYoung 
+
 This project was done in collaboration with Aracely Moreno, Sarah Branch, and Naila Thevenot
+
 
 [CLIP model (Contrastive Language-Image Pre-training)](https://openai.com/research/clip)
 [Vizwiz dataset](https://vizwiz.cs.colorado.edu/VizWiz_visualization/view_dataset.php)
