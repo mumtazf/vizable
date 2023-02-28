@@ -28,5 +28,8 @@ This project was done in collaboration with Aracely Moreno, Sarah Branch, and Na
 
 
 [CLIP model (Contrastive Language-Image Pre-training)](https://openai.com/research/clip)
+
 [Vizwiz dataset](https://vizwiz.cs.colorado.edu/VizWiz_visualization/view_dataset.php)
+
 [React Native](https://reactnative.dev/)
+
