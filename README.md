@@ -16,6 +16,10 @@ On successfully completing these two parts, our team created a fullstack mobile 
 ### Demo Video: 
 
 
+https://user-images.githubusercontent.com/88557841/221958889-eb5e035b-26ff-4efa-bf2a-23c2515b4f8d.mp4
+
+
+
 Credits: 
 This project was completed with the guidance of project advisor SouYoung 
 This project was done in collaboration with Aracely Moreno, Sarah Branch, and Naila Thevenot
