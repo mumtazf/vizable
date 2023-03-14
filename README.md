@@ -1,8 +1,13 @@
 # Vizable
 Image-to-Audio Assistant for Visual Disabilities
 
+
 ### What is Vizable? 
 Vizable is an app developed for individuals with visual disabilities. The app is primarily focused on converting visual input (in the form of images) to audio in real-time so that the user is able to identify the object in front of them. 
+
+
+https://user-images.githubusercontent.com/88557841/221958889-eb5e035b-26ff-4efa-bf2a-23c2515b4f8d.mp4
+                                                (Demo Video)
 
 It was made with the purpose of catering to a usually underserved demographic. The image-to-speech technology is made more accessible by incorporating a real-time translation tool that assists the user in receiving translated audio output. 
 
@@ -13,10 +18,6 @@ We conducted accuracy score evaluations of how CLIP peformed on the Vizwiz datas
 
 On successfully completing these two parts, our team created a fullstack mobile application using React Native. We incorporated the CLIP model into our backend and we designed our front-end so that our users can click images and have real-time audio narration of the image they captured. 
 
-### Demo Video: 
-
-
-https://user-images.githubusercontent.com/88557841/221958889-eb5e035b-26ff-4efa-bf2a-23c2515b4f8d.mp4
 
 
 
