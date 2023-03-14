@@ -9,10 +9,7 @@ Vizable is an app developed for individuals with visual disabilities. The app is
 
 
 https://user-images.githubusercontent.com/88557841/224865276-9f551c14-116e-4401-9bed-2757c75da15f.mp4
-
-
-
-                                                (Demo Video)
+                                                                (Demo Video)
 
 It was made with the purpose of catering to a usually underserved demographic. The image-to-speech technology is made more accessible by incorporating a real-time translation tool that assists the user in receiving translated audio output. 
 
